@@ -2,6 +2,6 @@
 package-lock.json
 /assets/*
 /logs/*
-!/**/.gitkeep
-/dist
 /env/*
+/dist
+!/**/.gitkeep
