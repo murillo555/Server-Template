@@ -4,3 +4,5 @@ package-lock.json
 /logs/*
 !/**/.gitkeep
 /dist
+/env/.env.development
+/env/.env.production
